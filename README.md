@@ -4,6 +4,7 @@ Appendix G_FTHv2.6.1.pdf
 FTH_Lapse_Addendum I_Appendix_J_K v2_6_1.pdf
 Finsler Timescape Hybrid v2.6.1.pdf
 Finsler-Timescape_q vs. Loop Quantum Cosmology.pdf
+FTH_QBE.pdf
 Jupyter FTH QBE.txt
 
 
