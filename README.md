@@ -48,3 +48,5 @@ Parameter-Free & Data-Anchored: Anchors: Planck CMB dipole (), ZOBOV voids (); z
 Open Source & Reproducible: SymPy/NumPy for Chern-Ricci tensors, Riccati flow, ODE integration (GitHub/DOI ).
 
 Key Fixes Applied: BAO (not 1%); DCBH density Mpc. Fully correct & publication-ready.
+
+FTH-QBE extends this classical theory by constructing a quantum-geometric bridge to the pre-CMB regime. Critically, we demonstrate that all classical FTH v2.6.1 predictions for the observationally accessible domain (z≲1089) remain invariant, ensuring that the quantum extension is a UV-completion rather than a modification of established structure-formation physics.
