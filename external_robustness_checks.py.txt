@@ -166,7 +166,7 @@ try:
         "Sasaki measure confirmed as action extremum; deviation suppressed at O(b₀²)"
     )
 except Exception as e:
-    add_to_report("4. Sasaki vs. Uniform Measure", f"SymPy Error: {str(e)}", "-", "FAIL", "App. X.3", "Execution failed")
+    add_to_report("4. Sasaki vs. Uniform Measure", f"SymPy Error: {str(e)}", "-", "FAIL", "App. N.3", "Execution failed")
 
 # =====================================================
 # FALSIFICATION REPORT OUTPUT
@@ -181,7 +181,7 @@ print("="*95)
 all_pass_or_conditional = all(row[3] in ["PASS", "CONDITIONAL"] for row in report)
 if all_pass_or_conditional:
     print("✅ ALL EXTERNAL ROBUSTNESS CHECKS PASSED / CONDITIONALLY VALID.")
-    print("   Framework mathematically consistent, peer-review ready, and falsifiable per FTH v2.6.1 Appendix X.")
+    print("   Framework mathematically consistent, peer-review ready, and falsifiable per FTH v2.6.1 Appendix N.")
 else:
     print("⚠️  ONE OR MORE TESTS FAILED. Review kill conditions before submission.")
 print("="*95)
