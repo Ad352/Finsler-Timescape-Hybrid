@@ -8,6 +8,11 @@ FTH_QBE.pdf
 Jupyter FTH QBE.txt
 FTH-DM Supplement.pd
 FTH-DM-Active-Extension.pdf
+Addendum I_Appendix_J-M_FTHv2.6.1.pdf
+FTH Cosmology_Unifying Finsler Geometry with Timescape Inhomogeneities for Dark Energy.pdf
+FTH_Addendum O+Lambda.pdf
+Appenda F-H_FTH v2.6.1.pdf
+FTH-DM Complete_Supplement.pdf
 Sympy Verifications
 
 Finsler-Timescape Hybrid (FTH): A Geometrically Consistent Framework for JWST High-z Tensions
